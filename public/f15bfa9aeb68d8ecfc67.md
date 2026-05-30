@@ -5,7 +5,7 @@ tags:
   - command
   - Terminal
 private: false
-updated_at: '2014-05-25T20:31:35+09:00'
+updated_at: '2026-05-30T15:40:14+09:00'
 id: f15bfa9aeb68d8ecfc67
 organization_url_name: null
 slide: false
